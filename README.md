@@ -1,5 +1,5 @@
 # Splunk
-Download the pdf for Splunk documentation and illustration of the example.
+Download the **Splunk Logging with .Net.pdf** file for Splunk documentation and illustration of the example.
 
 ## Requirements for this sample implementation
 The sample is developed with .Net Framework 4.7 and C# along with the following components/tools
