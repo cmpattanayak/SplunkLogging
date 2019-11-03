@@ -1,4 +1,4 @@
-# Splunk
+# Splunk Logging
 Download the **Splunk Logging with .Net.pdf** file for Splunk documentation and illustration of the example.
 
 ## Requirements for this sample implementation
@@ -7,7 +7,7 @@ The sample is developed with .Net Framework 4.7 and C# along with the following 
 2. Splunk Enterprise 8.0.0
 3. Enterprise Library
 
-### Miscellaneous 
+## Miscellaneous 
 Additional topics related to Splunk has been covered with the following documents
 1. **Pull Data From Differenet Sources.pdf** - We can, not only log events/messages from .net application but also pull all the log info
 from Windows Event Viewer log or a databse table.
